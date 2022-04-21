@@ -27,11 +27,11 @@ console.
 
 function assignGrade(score){
    
-    if (score < 60) return 'F'
-    else if (70 > score ) return 'D'
-    else if (80 > score ) return 'C'
-    else if (90 > score ) return 'B'
-    else if (score >=90) return 'A'
+    if (score < 60)  'F'
+    else if (70 > score )  'D'
+    else if (80 > score )  'C'
+    else if (90 > score )  'B'
+    else if (score >=90)  'A'
 
 }
 
